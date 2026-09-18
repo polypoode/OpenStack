@@ -38,7 +38,7 @@ Identité > Projets > Créer Projet > laisser domaine par défaut > entrer le no
 Création de l'utilisateur saAdmin  
 Identité > Utilisateur > Créer un utilisateur
 
-![alt text](image.png)
+![alt text](Screen/image.png)
 
 
 # Mission 1 : Réseau + routeur
